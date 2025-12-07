@@ -25,4 +25,21 @@ This Project investigates trends in urban heat island strength across 5 major US
 * Format: NetCDF
 
 
+### Requirements:
+
+* xarray
+
+* numpy
+
+* pandas
+
+* matplotlib
+
+* statsmodels
+
+* pymannkendall
+
+* cdsapi
+
+
 
